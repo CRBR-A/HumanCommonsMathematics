@@ -1,0 +1,38 @@
+#
+o
+|
+|
+o
+#
+o
+o
+o
+o
+|
+|
+o
+#
+
+---
+current:
+  subject: Mathematics
+  topic: Arithmetic > Abacus
+  type: 7 beads
+  digit: 9
+  description: |
+    # : frame (unmovable)
+    | : vertical rods/grooves
+    o : beads, slide vertically on the rod
+  author: [Cerbere.Ace](cerbere.ace@gmail.com) 
+  file:
+    url: <./digit-0.txt>
+    license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+previous:
+  digit: 8
+  file: <./digit-8.txt>
+next:
+  digit: 0
+  file: <./digit-0.txt>
+...

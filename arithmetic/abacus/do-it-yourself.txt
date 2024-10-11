@@ -1,0 +1,11 @@
+- groove abacus :
+  - grooves: wood, metal, sand (temporary), plastic boxes, 
+  - beads: 
+    - small toys (cars, marbles)
+    - magnet (for metal) 
+    - candy
+- rod abacus :
+  - frame : cardboard, wood, plastic
+  - rods: 
+  - beads : paper, 
+

@@ -1,0 +1,37 @@
+|-|
+|o|
+| |
+| |
+|o|
+|-|
+|o|
+| |
+| |
+|o|
+|o|
+|o|
+|o|
+|-|
+
+---
+current:
+  subject: Mathematics
+  topic: Arithmetic > Abacus
+  type: 7 beads
+  digit: 6
+  description: |
+    |-| and | | : fixed grooves
+    o : beads, slide vertically on the groove
+  author: [Cerbere.Ace](cerbere.ace@gmail.com) 
+  file:
+    url: <./digit-0.txt>
+    license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+previous:
+  digit: 5
+  file: <./digit-5.txt>
+next:
+  digit: 7
+  file: <./digit-7.txt>
+...
