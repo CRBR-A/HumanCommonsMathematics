@@ -1,0 +1,37 @@
+#
+o
+o
+o
+o
+o
+o
+o
+|
+|
+o
+o
+o
+#
+
+---
+current:
+  subject: Mathematics
+  topic: Arithmetic > Abacus
+  type: 10 beads
+  digit: 3
+  description: |
+    # and | : fixed grooves
+    o : beads, slide vertically on the groove
+  author: [Cerbere.Ace](cerbere.ace@gmail.com) 
+  file:
+    url: <./digit-0.txt>
+    license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+previous:
+  digit: 2
+  file: <./digit-2.txt>
+next:
+  digit: 4
+  file: <./digit-4.txt>
+...

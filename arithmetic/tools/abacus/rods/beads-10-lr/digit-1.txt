@@ -1,0 +1,25 @@
+#ooooooooo--o#
+
+---
+current:
+  subject: Mathematics
+  topic: Arithmetic > Abacus
+  type: 10 beads
+  digit: 1
+  description: #
+    # : frame
+    - : rod, fixed to the frame
+    o : beads, slide horizontally on the rod
+  author: [Cerbere.Ace](cerbere.ace@gmail.com) 
+  file:
+    url: <./digit-0.txt>
+    license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+previous:
+  digit: 0
+  file: <./digit-0.txt>
+next:
+  digit: 2
+  file: <./digit-2.txt>
+...

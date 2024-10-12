@@ -1,0 +1,43 @@
+--------------
+|o           |
+--------------
+|oo          |
+--------------
+|ooo         |
+--------------
+|oooo        |
+--------------
+|ooooo       |
+--------------
+|oooooo      |
+--------------
+|ooooooo     |
+--------------
+|oooooooo    |
+--------------
+|ooooooooo   |
+--------------
+|oooooooooo  |
+--------------
+
+---
+current:
+  subject: Mathematics
+  topic: Arithmetic > Abacus
+  type: Ascending Beads
+  value: initial position
+  description: |
+    | and - : fixed grooves
+    o : beads, slide vertically on the groove
+  author: [Cerbere.Ace](cerbere.ace@gmail.com) 
+  file:
+    url: <./initial-position.txt>
+    license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+previous:
+  file: <./example.txt>
+next:
+  file: <./example.txt>
+...
+

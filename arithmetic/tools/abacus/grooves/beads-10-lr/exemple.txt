@@ -1,0 +1,42 @@
+--------------
+|oooooooooo  |
+--------------
+|ooooooooo  o|
+--------------
+|oooooooo  oo|
+--------------
+|ooooooo  ooo|
+--------------
+|oooooo  oooo|
+--------------
+|ooooo  ooooo|
+--------------
+|oooo  oooooo|
+--------------
+|ooo  ooooooo|
+--------------
+|oo  oooooooo|
+--------------
+|o  ooooooooo|
+--------------
+
+---
+current:
+  subject: Mathematics
+  topic: Arithmetic > Abacus
+  type: 10 beads
+  value: example
+  description: |
+    | and - : fixed grooves
+    o : beads, slide vertically on the groove
+  author: [Cerbere.Ace](cerbere.ace@gmail.com) 
+  file:
+    url: <./example.txt>
+    license: CC0 Public domain
+    contributors:
+      - [Cerbere.Ace](cerbere.ace@gmail.com) 
+previous:
+  file: <./initial-position.txt>
+next:
+  file: <./initial-position.txt>
+...
