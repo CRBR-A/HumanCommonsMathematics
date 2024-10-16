@@ -1,9 +1,9 @@
 - groove :
-  - grooves: wood (carven), metal, sand, plastic boxes 
+  - grooves: wood (carven), cardboard, metal, sand, plastic boxes 
   - beads: 
     - small toys (cars, marbles)
     - magnet (for metal) 
-    - candy (wrapped preferably, and exceptional)
+    - candy (wrapped preferably, and exceptional...)
 - rod :
   - frame : cardboard, wood, plastic
   - rods: skewers (wood, metal)
